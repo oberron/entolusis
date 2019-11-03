@@ -11,3 +11,6 @@ categories: [ideas,notes]
 |--------------|-----------------|-----------------|
 |     ???      |   Societant     |       ???       |
 |--------------|-----------------|-----------------|
+
+futher reading:
+https://en.wikipedia.org/wiki/Mastery_learning
