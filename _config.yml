@@ -39,7 +39,7 @@ urls:
       url: /feed.xml
 
 url: "https://o.giberronthub.io"
-baseurl: ""
+baseurl: "https://oberron.github.io/entolusis/"
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
