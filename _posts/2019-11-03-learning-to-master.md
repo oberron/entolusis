@@ -14,3 +14,5 @@ categories: [ideas,notes]
 
 futher reading:
 https://en.wikipedia.org/wiki/Mastery_learning
+
+https://www.nateliason.com/blog/become-expert-dreyfus
