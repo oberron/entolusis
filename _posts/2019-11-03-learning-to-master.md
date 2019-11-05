@@ -16,3 +16,7 @@ futher reading:
 https://en.wikipedia.org/wiki/Mastery_learning
 
 https://www.nateliason.com/blog/become-expert-dreyfus
+
+drill learning:
+
+https://www.jstor.org/stable/44421082
