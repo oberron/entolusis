@@ -13,9 +13,7 @@ categories: [ideas,notes]
 |--------------|-----------------|-----------------|---|
 |              |                 |                 |Decoding Reader|   
 |--------------|-----------------|-----------------|---|
-| 1st dan ?    |                 |                 |Fluent Reader:
-* when switching from learning to read to reading to learn
-* many processes are starting to become automatic|   
+| 1st dan ?    |                 |                 |Fluent Reader: when switching from learning to read to reading to learn,  many processes are starting to become automatic|   
 |--------------|-----------------|-----------------|---|
 |              |                 |                 |Expert Reader|  
 
