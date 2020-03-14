@@ -14,3 +14,8 @@ from neglecting the customer to focusing on the customer; from individual to tea
 
 Here is a list of some common polarities. You may choose to use one of these for this exercise. Cost and Quality Market driven and Product driven Centralized and Decentralized Innovation and Standardization Autocratic and Participatory Process engineering and Product engineering Planning and Taking action Common computer systems and Custom computer systems
 ´´´
+
+‘’’
+
+It is more effective to be clear and flexible than to focus on one or the other.
+‘’’ (chap 3)
