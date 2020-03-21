@@ -18,4 +18,12 @@ Here is a list of some common polarities. You may choose to use one of these for
 ‘’’
 
 It is more effective to be clear and flexible than to focus on one or the other.
-‘’’ (chap 3)
+‘’’ (chap 3).   
+
+chap 5 pp63/262.   
+
+´´´
+
+As a leader, you can improve your effectiveness considerably if you are able to lead effective crusades and lead effective tradition-bearing efforts. I know that right now all the hype centers on being a great leader of change, and that orientation seems to support the crusading forces. But what I am suggesting is that effective change management requires the ability to be both a crusader and a tradition bearer. It also means dealing well with your opposition and with the “undecided” who are not sure which way to go. Paradoxically, to be really effective at crusading, you will need to be really effective at tradition bearing, and vice versa.
+´´´.   
+
