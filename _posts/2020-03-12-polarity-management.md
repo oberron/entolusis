@@ -31,3 +31,9 @@ As a leader, you can improve your effectiveness considerably if you are able to 
 
 The goal of any crusade, from a Polarity Management perspective, is to maximize the upsides of each pole while minimizing the downsides.
 ‘’’ p64
+
+
+´´´
+
+The ongoing goal in Polarity Management is to stay in the upper two quadrants as much as possible. When individuals, organizations, or countries treat a manageable polarity as if it were a problem to solve, they will spend unnecessary time experiencing the downsides of that polarity. In other words, they will not manage it very well.
+´´´ p79/220
