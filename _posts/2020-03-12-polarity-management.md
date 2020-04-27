@@ -37,3 +37,9 @@ The goal of any crusade, from a Polarity Management perspective, is to maximize 
 
 The ongoing goal in Polarity Management is to stay in the upper two quadrants as much as possible. When individuals, organizations, or countries treat a manageable polarity as if it were a problem to solve, they will spend unnecessary time experiencing the downsides of that polarity. In other words, they will not manage it very well.
 ´´´ p79/220
+
+> Three Polarity Pitfalls 
+> 1)  Polarity Management as the “Answer” to Everything “If all you have in your toolkit is a hammer, everything looks like a nail.” 
+> 2)  Avoiding the Issue “We cannot solve it, so let’s forget it.” 
+> 3)  No Decisions “If it is not a problem to solve, there are no decisions to be made.”
+> <quote> — p134/272 </quote>
