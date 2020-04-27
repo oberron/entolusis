@@ -47,4 +47,6 @@ The ongoing goal in Polarity Management is to stay in the upper two quadrants as
 
 > The One Pole Myth is: “If you stay on one pole, you will get the upside and downside of that pole while avoiding the downside of the opposite pole.” 
 > On the contrary, the one pole reality is: over-emphasize one pole and you get its downside (move A–B in Figure 32). Over-emphasize one pole for a long time and you get the downsides of both poles (B + C in Figure 32). You also tend to lose the benefits of both the over-emphasized pole and the neglected pole (see Figure 32).
+>Do you know the old truism that our fears are often self-fulfilling prophecies?
 > <quote> — p157/272 </quote>
+
