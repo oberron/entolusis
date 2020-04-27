@@ -50,3 +50,6 @@ The ongoing goal in Polarity Management is to stay in the upper two quadrants as
 >Do you know the old truism that our fears are often self-fulfilling prophecies?
 > <quote> — p157/272 </quote>
 
+> There is a One Pole Myth that comes from either/or thinking. The myth is: If you stay in one pole, you can keep the benefits of that pole, minimize the downsides of that pole, and avoid the downsides of the opposite pole. The One Pole Reality is: If you stay in one pole long enough, you lose many of the benefits of that pole, increasingly experience the downsides of the pole, and find yourself experiencing some of the downsides of the opposite pole.
+
+> <quote> — p161/272 </quote>
