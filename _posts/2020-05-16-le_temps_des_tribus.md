@@ -1,5 +1,5 @@
 ---
-title: le temps des tributs
+title: le temps des tribus
 lang: fr
 date: 2020-05-16
 category: essay
