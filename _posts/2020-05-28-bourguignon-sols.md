@@ -33,3 +33,9 @@ Le limon laboure par l'homme en region parisienne a une permeabilite de 1mm d'ea
 @19:57
 >[Quand on sait que la force érosive de l’eau correspond au carré de sa densité (densité2), les dégâts peuvent s’accumuler très vite. D’autant plus qu’au fur et à mesure de son cheminement, l’eau soulève de la matière qui vient donc augmenter sa densité et ainsi multiplier sa force érosive.](https://www.cultivar.fr/technique/se-rememorer-la-vocation-premiere-dun-sol)
 ![](warning.jpg) aucune publication trouvee ne mentionne cette relation: $$ F = K * \gamma ^2 $$
+
+@34:42
+Grande carence en europe pour le selenium
+pourquoi: car le choux pue
+le choux pue a cause des engrais souffres
+-> manger du chou bio (sans souffre) pour compenser les carences en selenium (qui est necessaire pour combattre le cancer).
