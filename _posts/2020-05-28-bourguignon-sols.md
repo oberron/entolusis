@@ -24,3 +24,6 @@ cycle de la matiere organique:
 
 1. la litiere est decomposee par la faune epigee dont les matieres fecales tres fines vont etre attaquees par les champignons pour en faire du humus.
 ![](warning.jpg) d'ou l'heresie du labour: dans la nature la matiere organique doit rester au dessus (Le labour la met en dessous).
+
+@18:52
+la foret a une permeabilite de 150mm d'eau / heure grace a la couche superieure d'humus
