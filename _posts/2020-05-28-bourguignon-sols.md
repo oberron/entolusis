@@ -31,4 +31,5 @@ la foret a une permeabilite de 150mm d'eau / heure grace a la couche superieure 
 Le limon laboure par l'homme en region parisienne a une permeabilite de 1mm d'eau par heure...
 
 @19:57
-la force erosive est liee au carre de la densite. Donc plus elle a de boue plus elle peut eroder!!!!
+>[Quand on sait que la force érosive de l’eau correspond au carré de sa densité (densité2), les dégâts peuvent s’accumuler très vite. D’autant plus qu’au fur et à mesure de son cheminement, l’eau soulève de la matière qui vient donc augmenter sa densité et ainsi multiplier sa force érosive.](https://www.cultivar.fr/technique/se-rememorer-la-vocation-premiere-dun-sol)
+![](warning.jpg) aucune publication trouvee ne mentionne cette relation: $$ F = K * \gamma ^2 $$
