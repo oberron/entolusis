@@ -26,4 +26,4 @@ cycle de la matiere organique:
 ![](warning.jpg) d'ou l'heresie du labour: dans la nature la matiere organique doit rester au dessus (Le labour la met en dessous).
 
 @18:52
-la foret a une permeabilite de 150mm d'eau / heure grace a la couche superieure d'humus
+la foret a une permeabilite de 150mm d'eau / heure grace a la couche superieure d'humus en foret "europeenne" et 300mm d'eau par heure en foret equatoriale.
