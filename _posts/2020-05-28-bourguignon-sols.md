@@ -17,3 +17,10 @@ qui font le humus qui lie les sols.
 
 * l'air c'est 94% des matieres seches
 * le sol c'est 6% des matieres seches mais *24 atomes* qui font le terroir et le gout!
+
+@15:55
+cycle de la matiere organique:
+![](https://thumbs.dreamstime.com/z/la-cha%C3%AEne-alimentaire-de-sol-83393795.jpg)
+
+1. la litiere est decomposee par la faune epigee dont les matieres fecales tres fines vont etre attaquees par les champignons pour en faire du humus.
+![](warning.jpg) d'ou l'heresie du labour: dans la nature la matiere organique doit rester au dessus (Le labour la met en dessous).
