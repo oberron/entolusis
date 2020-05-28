@@ -29,3 +29,6 @@ cycle de la matiere organique:
 la foret a une permeabilite de 150mm d'eau / heure grace a la couche superieure d'humus en foret "europeenne" et 300mm d'eau par heure en foret equatoriale.
 @18:57
 Le limon laboure par l'homme en region parisienne a une permeabilite de 1mm d'eau par heure...
+
+@19:57
+la force erosive est liee au carre de la densite. Donc plus elle a de boue plus elle peut eroder!!!!
