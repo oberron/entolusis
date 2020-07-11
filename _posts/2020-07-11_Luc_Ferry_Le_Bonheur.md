@@ -14,5 +14,7 @@ categories: [wisdom]
 * Accessible par des exercisses personels (.. 7:43)
 * on peut etre heureux dans un monde malheureux (@7:49)
 
-> Le probleme c'est la representation de la realite pas la realite elle-meme
-> Etty Hillesum
+    > Le probleme c'est la representation de la realite pas la realite elle-meme
+    > Etty Hillesum
+
+* Le sage c'est celui qui dit oui a la vie (@8:57) 
