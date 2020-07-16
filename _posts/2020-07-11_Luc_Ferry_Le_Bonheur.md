@@ -15,6 +15,6 @@ categories: [wisdom]
 * on peut etre heureux dans un monde malheureux (@7:49)
 
     > Le probleme c'est la representation de la realite pas la realite elle-meme
-    > Etty Hillesum
+    > Etty Hillesum @08:45
 
 * Le sage c'est celui qui dit oui a la vie (@8:57) 
