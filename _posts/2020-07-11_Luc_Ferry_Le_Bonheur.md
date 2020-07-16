@@ -18,3 +18,5 @@ categories: [wisdom]
     > Etty Hillesum @08:45
 
 * Le sage c'est celui qui dit oui a la vie (@8:57) 
+
+    * Doctrine stoïcienne de [l'Amor fati](https://fr.wikipedia.org/wiki/Amor_fati): le fait « d'accepter son destin ». 
