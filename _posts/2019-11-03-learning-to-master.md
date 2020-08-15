@@ -1,9 +1,30 @@
 ---
 layout: post
-title:  "Learning how to be a master"
+title:  Learning towards becoming a master
 date:   2019-11-03
 categories: [ideas,notes]
 ---
+
+# From noobs to master
+
+### How to effectively learn (and teach)
+
+---
+
+## Learning Pyramid
+
+![](https://www.lemonlearning.fr/storage/nova/attachments/capture-decran-2019-12-04-a-165934-5de7d80249827.png)
+
+> source NeuroLearning. Les neurosciences au service de la formation, Dr Nadia Medjad, Philippe Gil, Philippe Lacroix, Eyrolles, 2017.
+
+1. Memorising
+2. Learning
+3. Understand
+4. Paying attention
+
+---
+
+## Learning steps
 
 | Martial Arts | European Guilds | Modern Education| [Reading](https://en.wikipedia.org/wiki/Learning_to_read)  | Muscle Memory | Declarative vs Episodic Memory |
 |--------------|-----------------|-----------------|---|---|---|
