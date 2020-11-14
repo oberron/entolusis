@@ -11,9 +11,18 @@ categories: [ideas,notes]
 
 ---
 
-## Learning Pyramid
+## Learning Pyramids
 
-![](https://www.lemonlearning.fr/storage/nova/attachments/capture-decran-2019-12-04-a-165934-5de7d80249827.png)
+| Eyrolles      | Bloom       |
+|---------------|-------------|
+| ![][Eyrolles] | ![][Bloom]  |
+
+[Eyrolles]:https://www.lemonlearning.fr/storage/nova/attachments/capture-decran-2019-12-04-a-165934-5de7d80249827.png
+[Bloom]:https://sites.rhodes.edu/sites/sitesd8/files/academicsupport/dreamstime_xxl_57664339.jpg
+
+----
+
+## Eyrolles 
 
 > source NeuroLearning. Les neurosciences au service de la formation, Dr Nadia Medjad, Philippe Gil, Philippe Lacroix, Eyrolles, 2017.
 
@@ -21,6 +30,19 @@ categories: [ideas,notes]
 2. Learning
 3. Understand
 4. Paying attention
+
+----
+
+# Bloom
+
+> from *Taxonomy of Educational Objectives: The Classification of Educational Goals*
+
+1.	Knowledge
+2.	Comprehension
+3.	Application
+4.	Analysis
+5.	Synthesis
+6.	Evaluation
 
 ---
 
