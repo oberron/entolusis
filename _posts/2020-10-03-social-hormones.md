@@ -14,10 +14,11 @@ lang: en
 
 | Name | Cause    | Effects | Sources |
 |------|----------|---------|------------|
-| oxytocin | labor, orgasm, social recognition, bonding, and maternal behaviors | triggers lactation, increases blood pressure | [doi: 10.4103/2230-8210.84851][history_oxytocin]  |
+| oxytocin | labor, orgasm, social recognition, bonding, and maternal behaviors | triggers lactation, increases blood pressure | [doi: 10.4103/2230-8210.84851][oxy1]  |
 | dopamine | food, music, psychoactive drugs, money |  ‘musical  frisson’\[11\] | [doi][dop1] |
 
-\[11\]: Huron,  D.  &  Hellmuth  Margulis,  E.  Musical  expectancy  and  thrills.  in Music  and Emotion (eds. Juslin, P.N. & Sloboda, J.) (Oxford University Press, New York, 2009).
+11: Huron,  D.  &  Hellmuth  Margulis,  E.  Musical  expectancy  and  thrills.  in Music  and Emotion (eds. Juslin, P.N. & Sloboda, J.) (Oxford University Press, New York, 2009).
+
 [oxy1]: https://doi.org/10.4103/2230-8210.84851
 [dop1]: https://doi.org/10.1038/nn.2726
 ----
