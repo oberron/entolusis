@@ -23,7 +23,7 @@ before Renaissance concepts like authorship inventorship or claiming credit bare
 
 “first psyents were issued in Italy in fifteenth century, UK US 18th, Feance 19th”
 
-chap 5 - Termites
+chap 1.5 - Termites
 
 IQ > 151
 missed 2 nobel prices :Schokley anc Alvarez
