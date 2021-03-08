@@ -5,7 +5,7 @@ github: https://github.com/oberron
 about: TL;DR
 disqus_shortname: oberron
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /entolusis/static/img/spark.jpg
+avatar_url: /entolusis/static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
@@ -28,7 +28,7 @@ social:
       link: "https://github.com/oberron"
 
 share:
-  twitter_username: github.io
+  twitter_username: oberron
   fb_appid: 1749788565247320
 
 urls:
@@ -43,12 +43,15 @@ url: "https://oberron.github.io"
 baseurl: "/entolusis"
 paginate: 20
 per_page: 20
-paginate_path: "/page/:num/"
+paginate_path: "page/:num/"
 markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
-
+defaults:
+  -
+    values:
+      layout: "post"
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
