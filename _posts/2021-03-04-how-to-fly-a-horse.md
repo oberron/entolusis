@@ -28,3 +28,13 @@ chap 1.5 - Termites
 IQ > 151
 missed 2 nobel prices :Schokley anc Alvarez
 > sources ?
+
+
+chap 3.7 - the rejection effect
+
+the Getzels-Jackson effect pp84
+" the vast majority of teachers say creating is so important that it should be taught daily but when tested they nearly always favour less creative children "
+
+[doi.org/10.1111/j.2044-8295.1966.tb01013.x](http://sci-hub.ee/10.1111/j.2044-8295.1966.tb01013.x)
+
+>Getzels & Jackson (1962) found that, when two contrasting groups of children were formed, one of high scorers on tests of divergent thinking or ‘creativity’, the other of high i.q., (a) both groups scored equally on tests of attainment, (b) teachers rated the ‘high creativity’ group rather lower on desirability as pupils. 
