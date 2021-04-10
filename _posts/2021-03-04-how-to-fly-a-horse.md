@@ -54,4 +54,11 @@ the Getzels-Jackson effect pp84
 p113
 > confidence is belief in yourself. certainty is belief in your belief. confidence is a bridge. certainty is a barricade
 
+p117
+> delusion comforts when truth hurts. when you feel sure feel weary you may be suffering from certainty
+
+## chap 5 where credit is due
+
+
+
 
