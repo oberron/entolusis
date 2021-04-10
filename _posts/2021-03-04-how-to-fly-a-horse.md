@@ -38,3 +38,20 @@ the Getzels-Jackson effect pp84
 [doi.org/10.1111/j.2044-8295.1966.tb01013.x](http://sci-hub.ee/10.1111/j.2044-8295.1966.tb01013.x)
 
 >Getzels & Jackson (1962) found that, when two contrasting groups of children were formed, one of high scorers on tests of divergent thinking or ‘creativity’, the other of high i.q., (a) both groups scored equally on tests of attainment, (b) teachers rated the ‘high creativity’ group rather lower on desirability as pupils. 
+
+## chap 4 - how we see
+
+### 4.4 Shoshin
+
+> Shoshin, beginner’s mind in japanese
+
+### 4.5 Structure
+
+> p106 [Structure-Scientific-Revolutions-Thomas-Kuhn](https://www.amazon.de/Structure-Scientific-Revolutions-Thomas-Kuhn/dp/0226458083) defines `paradigms`
+
+### 4.7
+
+p113
+> confidence is belief in yourself. certainty is belief in your belief. confidence is a bridge. certainty is a barricade
+
+
