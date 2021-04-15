@@ -59,6 +59,14 @@ p117
 
 ## chap 5 where credit is due
 
+matthew’s law
+
+## chap 5 chains of consequence
+
+p143
+> the aristocrats, the only ones who perhaps had the power to key automaton away, did nothing and lost everything.
+
+
 
 
 
