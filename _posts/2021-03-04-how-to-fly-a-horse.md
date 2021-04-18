@@ -66,6 +66,14 @@ matthew’s law
 p143
 > the aristocrats, the only ones who perhaps had the power to key automaton away, did nothing and lost everything.
 
+## chap 7 - gas in your tank
+
+p173
+Amabile looked at creativity with choice and award
+
+>Three studies, with 195 5–11 yr olds and 60 female undergraduates, tested the hypothesis that explicitly contracting to do an activity in order to receive a reward would have negative effects on creativity, but receiving no reward or only a noncontracted-for reward would have no such negative effects
+
+>[doi.org/10.1037/0022-3514.50.1.14](https://doi.org/10.1037/0022-3514.50.1.14)
 
 
 
