@@ -20,3 +20,7 @@ On the other hand, a review of sociology, anthropology, and evolutionary psychol
 * competence, and 
 * vision 
 (e.g., Kouzes & Posner, 2002; Lord, Foti, & DeVader, 1984).
+
+> Good to Great
+Most business books are empirical nonsense, but Collins’s (2001a) book, Good to Great, seems to be an exception. He and his staff searched databases for the Fortune 1000 com- panies to identify companies that had 15 years of performance below the average of their busi- ness sector and then 15 years of sustained per- formance significantly above the average of their sector. They found 11 companies that fit this profile. The next question was, what distin- guished these 11 companies? Their somewhat reluctant conclusion was that the distinguishing feature was a new CEO who took charge of the organization and then improved its performance.
+These 11 CEOs all shared the same two char- acteristics (above and beyond the four elements described earlier; Collins, 2001b). First, they were modest and humble, as opposed to self- dramatizing and self-promoting. Second, they were phenomenally, almost preternaturally, per- sistent. These findings were a jolt to the busi- ness literature (which had been promoting the cult of the charismatic CEO),
