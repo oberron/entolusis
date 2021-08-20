@@ -1,7 +1,7 @@
 ---
 title: Conférence Luc Ferry : Le bonheur, quête accessible ou pure illusion ?
 lang: fr
-categories: [wisdom]
+categories: sante, wisdom
 ---
 
 # Conférence Luc Ferry : Le bonheur, quête accessible ou pure illusion ?

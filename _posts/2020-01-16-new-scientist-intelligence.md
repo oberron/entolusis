@@ -1,6 +1,7 @@
 ---
 title: we’ve got intelligence all wrong
 date: 2021-01-16
+categories: gnauthi
 --- 
 
 - — - -

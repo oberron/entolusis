@@ -1,6 +1,7 @@
 ---
-date:2021-03-21
+date: 2021-03-21
 title: meditation
+categories: sante
 ---
 
 # Meditation en FR

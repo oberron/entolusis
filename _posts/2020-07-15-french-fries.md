@@ -1,6 +1,6 @@
 ---
 title: french fries
-categories : [recette]
+categories : recette
 date: 2020-07-15
 ---
 

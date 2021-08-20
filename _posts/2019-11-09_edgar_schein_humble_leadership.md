@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Effectively choose leaders"
+title:  Effectively choose leaders
 date:   2019-11-03
-categories: [idea,notes]
+categories: idea,notes, leadership
 ---
 
 source: https://www.youtube.com/watch?v=6wJaNKIALLw

@@ -1,6 +1,7 @@
 ---
 title: 释放正能量 (shi fang zheng neng liang), Radiating positive energy
 date: 2020-08-27
+categories: china
 ---
 
 

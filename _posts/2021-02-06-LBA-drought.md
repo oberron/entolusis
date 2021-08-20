@@ -1,8 +1,8 @@
 ---
 title: drought in late iron age
 date: 2021-02-06
-categories: [archeology]
-tags : [egypt]
+categories: archeology
+tags : egypt
 ---
 
 # Drought in late iron age

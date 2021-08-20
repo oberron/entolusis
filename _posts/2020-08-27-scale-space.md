@@ -2,7 +2,7 @@
 layout: post
 title:  Scale space
 date:   2020-08-06
-categories: [notes]
+categories: ideas
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 date: 2021-08-13
 title: stable metabolism between 20 and 60
-categorieS: sante
+categories: sante
 ---
 
 source nature science https://science.sciencemag.org/content/373/6556/808

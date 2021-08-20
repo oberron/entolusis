@@ -1,6 +1,6 @@
 ---
 title: Social Hormones
-categories: medical
+categories: sante, gnauthi
 date: 2020-10-03
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: Oil olive reduces CVD risks
 lang: en
-categories: [sante]
+categories: sante
 date: 2020-07-25
 ---
 

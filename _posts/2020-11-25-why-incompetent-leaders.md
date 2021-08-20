@@ -1,7 +1,7 @@
 ---
 title: Why do so many incompetent men become leaders
 date: 2020-11-25
-categories: [leadership]
+categories: leadership
 ---
 
 # Why do so many incompetent mean become leaders

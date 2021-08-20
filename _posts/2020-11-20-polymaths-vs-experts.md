@@ -1,7 +1,7 @@
 ---
 title: Polymaths vs experts
 date: 2020-11-20
-categories: [idea]
+categories: idea
 ---
 
 # Why Musk or Jobs prefer no silo rules

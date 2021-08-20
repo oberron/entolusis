@@ -2,7 +2,7 @@
 title: bonnat chocolatier
 lang: fr
 date: 2020-05-30
-categories: [tradition]
+categories: tradition
 ---
 
 # Bonnat Chocolatier
