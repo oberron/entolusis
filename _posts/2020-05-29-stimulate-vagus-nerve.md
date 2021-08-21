@@ -13,5 +13,4 @@ categories: sante
 6. omega-3
 7. exercise
 8. massage: foot and carotide
-9. socializing and laughing
-10. 
+9. socializing and laughing 
