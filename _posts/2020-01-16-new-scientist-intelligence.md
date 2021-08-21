@@ -4,7 +4,17 @@ date: 2021-01-16
 categories: gnauthi
 --- 
 
-- — - -
+# We've got intelligence all wrong
+
+Key take-aways
+
+> intelligence tests and how academia is organised is biased towards one type of intelligence:
+
+```
+IQ works best for solving problems that follow familiar or easily learned patterns. It doesn’t work so well for the complex, highly novel, high-stakes, often emotionally charged problems we frequently face
+```
+
+## Article body
 
 We’ve got intelligence all wrong – and that’s endangering our futureRobert J. Sternberg
 A narrow focus on IQ to determine success is depriving us of key decision-making smarts, as our faltering response to problems such as covid-19 and climate change shows
