@@ -1,7 +1,7 @@
 ---
 title: post decisional dissonance
 date: 2019-11-23
-categories: psychology, gnauthi
+categories: [psychology, gnauthi]
 ---
 
 [Confirmation Bias through Selective Overweighting of Choice-Consistent Evidence](https://www.sciencedirect.com/science/article/pii/S0960982218309825)
