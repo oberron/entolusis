@@ -2,7 +2,7 @@
 layout: post
 title:  Learning towards becoming a master
 date:   2019-11-03
-categories: idea,notes
+categories: [idea,note]
 ---
 
 # From noobs to master

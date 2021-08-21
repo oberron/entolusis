@@ -1,7 +1,7 @@
 ---
 title: Lost Connections by Johann Hari
 date: 2019-11-10
-categories: psychology, gnauthi
+categories: [psychology, gnauthi]
 ---
 
 
