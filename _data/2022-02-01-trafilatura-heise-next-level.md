@@ -1,6 +1,6 @@
 ---
 date: 2022-02-06
-title: 
+title: Heise__Next Level
 trafilatura: trafilatura -u https://www.heise.de/tp/features/Next-Level-6344350.html?seite=all > 2022-02-01-trafilatura-heise-next-level.md
 ---
 
