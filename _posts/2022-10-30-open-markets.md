@@ -17,5 +17,5 @@ https://en.wikipedia.org/wiki/Free_market#Concepts
 
 Anti competitions is about >30% of market-share, but what about relative size upstream/downstream?
 
-![concentration_grande_distribution](/entolusis/static/img/concentration_grande_distribution)
+![concentration_grande_distribution](/entolusis/static/img/concentration_grande_distribution.png)
 > source [resiliencealimentaire.org/](https://publications.resiliencealimentaire.org/partie4_les-obstacles-a-surmonter/)
